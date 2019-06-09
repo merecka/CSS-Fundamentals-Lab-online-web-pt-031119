@@ -37,4 +37,5 @@ section#details div {
   float: left;
   background-color: rgb(255,0,0);
   width: 25%;
+  padding-left: 10px;
 }
