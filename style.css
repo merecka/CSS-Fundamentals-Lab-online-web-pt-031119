@@ -20,4 +20,7 @@ nav {
   background-color: rgb(128,128,128);
 }
 
-figcaption {font-size: small;}
+figcaption {
+  font-size: small;
+  text-align: center;
+}
