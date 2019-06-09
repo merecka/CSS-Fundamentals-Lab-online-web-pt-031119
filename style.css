@@ -19,3 +19,5 @@ nav {
   padding-right: 10px;
   background-color: rgb(128,128,128);
 }
+
+figcaption {font-size: small;}
