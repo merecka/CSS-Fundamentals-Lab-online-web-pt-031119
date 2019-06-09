@@ -13,9 +13,11 @@ h1 {text-align: center;}
   width: 50%;
 }
 
-nav * {
+nav {
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: rgb(128,128,128);
 }
+
+
